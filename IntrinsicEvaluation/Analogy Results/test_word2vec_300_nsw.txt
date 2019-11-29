@@ -1,0 +1,97 @@
+./Inflectional
+I04 [adj - superlative]_Translated-2.txt
+364
+1560
+
+I05 [verb_inf - 3pSg]_Translated-2.txt
+416
+2450
+
+I10 [verb_3pSg - Ved] modified-2.txt
+223
+2450
+
+I06 [verb_inf - Ving]_Translated-2.txt
+467
+2256
+
+I08 [verb_Ving - 3pSg]modified-2.txt
+472
+2162
+
+I01 [noun - plural_reg] modified-2.txt
+586
+2256
+
+I07 [verb_inf - Ved]_Translated-2.txt
+229
+2450
+
+I09 [verb_Ving - Ved]modified-2-.txt
+200
+1482
+
+
+
+./Derivational
+D03_done_[adj+ly_reg]translated-2.txt
+194
+992
+
+D06 [re+verb_reg] translated-2.txt
+229
+2070
+
+D08 [verb+er_irreg] translated-2.txt
+8
+930
+
+D05 [adj+ness_reg]translated-2.txt
+16
+992
+
+D04 [over+adj_reg] translated-2.txt
+87
+1640
+
+D09 [verb+tion_irreg]translated-2.txt
+7
+1122
+
+D02 [un+adj_reg]translated-2.txt
+226
+1640
+
+D10 [verb+ment_irreg] translated-2.txt
+509
+930
+
+
+
+./Encyclopedic
+E09 [things - color] completed .txt
+100
+992
+
+E12 [ institute - head ] completed.txt
+18
+156
+
+E10 [male - female] completed.txt
+312
+1260
+
+E01 [country - capital] completed.txt
+236
+1640
+
+E04 [name - nationality] completed.txt
+220
+1260
+
+E11 [ province - capital ] completed.txt
+32
+56
+
+
+
