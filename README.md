@@ -10,3 +10,5 @@ Then we train three types of word embedding models;
 Also, this repo contains source code and datasets to two types of intrinsic evalaution;
   1) Analogy Evaluation
   2) Relatedness Evaluation
+  
+Further this contains preprocessed POS tag data set which was used for Extrinsic Evaluation
