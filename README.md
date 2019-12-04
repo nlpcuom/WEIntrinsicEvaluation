@@ -6,6 +6,7 @@ Then we train three types of word embedding models;
   3) FastText
   
 Preprocessed Data can be found via https://drive.google.com/drive/folders/1lb4-eAr1rpFFGg_rk_djPCCVYiOpY6Hi?usp=sharing
+
 Trained Models (300 dimensions) can be found via https://drive.google.com/drive/folders/1VD8J-zYix3mD31jbIBhqK2fke-VFLD5P?usp=sharing
 
 Also, this repo contains source code and datasets to two types of intrinsic evalaution;
